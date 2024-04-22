@@ -60,4 +60,6 @@ This Power BI dashboard can be deployed to Power BI Service for sharing with sta
 ---
 
 For more details and to access the live dashboard, please refer to the repository and associated files.
+![image](https://github.com/NDK22/Credit-Card-Defaulter-Powerbi-Dashboard/assets/121696401/20461175-03b9-4ade-ac6b-b9f087b530c2)
+
 
