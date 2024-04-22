@@ -2,6 +2,8 @@
 
 This repository contains a Power BI dashboard that visualizes credit card defaulter statistics across various demographic categories. The dashboard provides insights into default patterns and trends based on different factors.
 
+![image](https://github.com/NDK22/Credit-Card-Defaulter-Powerbi-Dashboard/assets/121696401/20461175-03b9-4ade-ac6b-b9f087b530c2)
+
 ## Dashboard Overview
 
 The dashboard consists of several key visualizations:
@@ -60,6 +62,6 @@ This Power BI dashboard can be deployed to Power BI Service for sharing with sta
 ---
 
 For more details and to access the live dashboard, please refer to the repository and associated files.
-![image](https://github.com/NDK22/Credit-Card-Defaulter-Powerbi-Dashboard/assets/121696401/20461175-03b9-4ade-ac6b-b9f087b530c2)
+
 
 
